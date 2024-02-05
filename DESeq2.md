@@ -1,6 +1,6 @@
 ## Differential Expression Analysis of RNA-seq data
 
-For the HTML version of the workflow containing the input/output information and the embedded plots see: [DESes2.html](https://htmlpreview.github.io/?https://github.com/nshanian/DESeq2/blob/main/DESeq2.html)
+For the HTML version of the workflow containing the input/output information and the embedded plots see: [DESeq2.html](https://htmlpreview.github.io/?https://github.com/nshanian/DESeq2/blob/main/DESeq2.html)
 
 ## Introduction
 
