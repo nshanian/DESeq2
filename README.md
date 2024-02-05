@@ -1,5 +1,3 @@
-DESeq2 analysis of RNA-seq data in R
-
 ## Exploratory and Differential Expression Analysis of RNA-seq Data 
 
 This repository contains tools for exploratory and differential expression analysis of RNA-seq data using DESeq2 package.
