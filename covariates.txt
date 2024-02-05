@@ -1,0 +1,7 @@
+samples	condition	status	
+1	Cnt1	untreaated	Cnt
+2	Cnt2	untreaated	Cnt
+3	Cnt3	untreaated	Cnt
+4	Prop1	treated	Prop
+5	Prop2	treated	Prop
+6	Prop3	treated	Prop
