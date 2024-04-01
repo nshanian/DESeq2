@@ -2,7 +2,7 @@
 
 This repository contains tools for exploratory and differential expression analysis of RNA-seq data using DESeq2 package.
 
-[Click here](https://github.com/nshanian/Documents/blob/main/DESeq2.html) for the HTML version of this workflow with the output and the embedded plots.
+[Click here](https://htmlpreview.github.io/?https://github.com/nshanian/Documents/blob/main/DESeq2.html) for the HTML version of this workflow with the output and the embedded plots.
 
 The RNA-seq data used in this workflow was generated as part of a study that investigated the regulatory role of short-chain fatty acids (SCFAs) propionate and butyrate in the context of colorectal cancer (CRC). Briefly, epigeneomic and transcriptomic profiles were compared in SCFA-treated and untreated CRC cells, normal cells and in mouse intestines, with the goal of gaining insight into changes in accessibility and expression of CRC-relevant genes. 
 
